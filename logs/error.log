@@ -1,0 +1,10 @@
+[2025-06-12T08:33:32.326Z] error: Test error log
+[2025-06-12T08:35:54.334Z] error: Test error log
+process.on('uncaughtException', (err) => {
+  logError(`Uncaught Exception: ${err.stack || err}`);
+  console.error('Uncaught Exception:', err);
+});
+process.on('unhandledRejection', (reason, promise) => {
+  logError(`Unhandled Rejection: ${reason.stack || reason}`);
+  console.error('Unhandled Rejection:', reason);
+});

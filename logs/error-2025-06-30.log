@@ -1,0 +1,245 @@
+error: TypeError: next is not a function
+    at getUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:60:5)
+    at /Users/shubham/Desktop/projrct/level-1/backend/routes/routes.js:10:11
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5) {"timestamp":"2025-06-30T05:56:56.557Z"}
+error: TypeError: next is not a function
+    at getUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:60:5)
+    at /Users/shubham/Desktop/projrct/level-1/backend/routes/routes.js:10:11
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5) {"timestamp":"2025-06-30T05:56:58.910Z"}
+error: TypeError: next is not a function
+    at getUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:60:5)
+    at /Users/shubham/Desktop/projrct/level-1/backend/routes/routes.js:10:11
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5) {"timestamp":"2025-06-30T05:56:59.706Z"}
+error: TypeError: next is not a function
+    at getUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:60:5)
+    at /Users/shubham/Desktop/projrct/level-1/backend/routes/routes.js:10:11
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5) {"timestamp":"2025-06-30T05:57:44.685Z"}
+error: TypeError: next is not a function
+    at getUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:60:5)
+    at /Users/shubham/Desktop/projrct/level-1/backend/routes/routes.js:10:11
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5) {"timestamp":"2025-06-30T05:57:45.387Z"}
+error: TypeError: next is not a function
+    at getUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:60:5)
+    at /Users/shubham/Desktop/projrct/level-1/backend/routes/routes.js:10:11
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5) {"timestamp":"2025-06-30T05:58:12.558Z"}
+error: TypeError: next is not a function
+    at getUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:60:5)
+    at /Users/shubham/Desktop/projrct/level-1/backend/routes/routes.js:10:11
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5) {"timestamp":"2025-06-30T05:58:13.448Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 68622fb02dbe4467b567456f (casted: 68622fb02dbe4467b567456f) {"timestamp":"2025-06-30T06:37:35.410Z"}
+error: [deleteUserService] Removing from Elasticsearch: 68622fb02dbe4467b567456f {"timestamp":"2025-06-30T06:37:35.480Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-06-30T06:37:35.480Z"}
+error: TypeError: user.toObject is not a function
+    at /Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:121:24
+    at Array.map (<anonymous>)
+    at getAllUsersService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:120:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async getUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:4:18) {"timestamp":"2025-06-30T06:40:08.641Z"}
+error: TypeError: user.toObject is not a function
+    at /Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:121:24
+    at Array.map (<anonymous>)
+    at getAllUsersService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:120:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async getUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:4:18) {"timestamp":"2025-06-30T06:40:10.123Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 685e68c8b9ae0f62081293f4 (casted: 685e68c8b9ae0f62081293f4) {"timestamp":"2025-06-30T06:40:22.305Z"}
+error: [deleteUserService] Removing from Elasticsearch: 685e68c8b9ae0f62081293f4 {"timestamp":"2025-06-30T06:40:22.346Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-06-30T06:40:22.347Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 685e6871b9ae0f62081293ee (casted: 685e6871b9ae0f62081293ee) {"timestamp":"2025-06-30T06:42:55.894Z"}
+error: [deleteUserService] Removing from Elasticsearch: 685e6871b9ae0f62081293ee {"timestamp":"2025-06-30T06:42:55.932Z"}
+error: [deleteUserService] Removed from Elasticsearch: 685e6871b9ae0f62081293ee {"timestamp":"2025-06-30T06:42:56.078Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 685e424eb9ae0f6208128fca (casted: 685e424eb9ae0f6208128fca) {"timestamp":"2025-06-30T06:44:05.478Z"}
+error: [deleteUserService] Removing from Elasticsearch: 685e424eb9ae0f6208128fca {"timestamp":"2025-06-30T06:44:05.503Z"}
+error: [deleteUserService] Removed from Elasticsearch: 685e424eb9ae0f6208128fca {"timestamp":"2025-06-30T06:44:05.568Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 685e3a61b9ae0f6208128f7c (casted: 685e3a61b9ae0f6208128f7c) {"timestamp":"2025-06-30T06:45:16.968Z"}
+error: [deleteUserService] Removing from Elasticsearch: 685e3a61b9ae0f6208128f7c {"timestamp":"2025-06-30T06:45:17.002Z"}
+error: [deleteUserService] Removed from Elasticsearch: 685e3a61b9ae0f6208128f7c {"timestamp":"2025-06-30T06:45:17.081Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 685e398ab9ae0f6208128f74 (casted: 685e398ab9ae0f6208128f74) {"timestamp":"2025-06-30T06:46:00.448Z"}
+error: [deleteUserService] Removing from Elasticsearch: 685e398ab9ae0f6208128f74 {"timestamp":"2025-06-30T06:46:00.477Z"}
+error: [deleteUserService] Removed from Elasticsearch: 685e398ab9ae0f6208128f74 {"timestamp":"2025-06-30T06:46:00.552Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 685d40fab9ae0f6208128f0e (casted: 685d40fab9ae0f6208128f0e) {"timestamp":"2025-06-30T06:48:30.208Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-06-30T06:48:30.243Z"}
+error: [deleteUserService] Removing from Elasticsearch: 685d40fab9ae0f6208128f0e {"timestamp":"2025-06-30T06:48:30.243Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 685e3732b9ae0f6208128f5a (casted: 685e3732b9ae0f6208128f5a) {"timestamp":"2025-06-30T06:50:44.309Z"}
+error: [deleteUserService] Removing from Elasticsearch: 685e3732b9ae0f6208128f5a {"timestamp":"2025-06-30T06:50:44.344Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-06-30T06:50:44.344Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 685e3690b9ae0f6208128f4e (casted: 685e3690b9ae0f6208128f4e) {"timestamp":"2025-06-30T06:52:03.087Z"}
+error: [deleteUserService] Removing from Elasticsearch: 685e3690b9ae0f6208128f4e {"timestamp":"2025-06-30T06:52:03.118Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-06-30T06:52:03.119Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 685d3d71b9ae0f6208128ef0 (casted: 685d3d71b9ae0f6208128ef0) {"timestamp":"2025-06-30T07:12:37.146Z"}
+error: [deleteUserService] Removing from Elasticsearch: 685d3d71b9ae0f6208128ef0 {"timestamp":"2025-06-30T07:12:37.189Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-06-30T07:12:37.189Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 685e2ee1b9ae0f6208128f34 (casted: 685e2ee1b9ae0f6208128f34) {"timestamp":"2025-06-30T08:01:06.185Z"}
+error: [deleteUserService] Removing from Elasticsearch: 685e2ee1b9ae0f6208128f34 {"timestamp":"2025-06-30T08:01:06.229Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-06-30T08:01:06.232Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 685e36d6b9ae0f6208128f54 (casted: 685e36d6b9ae0f6208128f54) {"timestamp":"2025-06-30T08:01:43.506Z"}
+error: [deleteUserService] Removing from Elasticsearch: 685e36d6b9ae0f6208128f54 {"timestamp":"2025-06-30T08:01:43.530Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-06-30T08:01:43.530Z"}
+error: User with email prasanna1@gmail.com already exists. {"timestamp":"2025-06-30T08:11:43.822Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:44:14) {"timestamp":"2025-06-30T08:11:43.822Z"}
+error: User with email manas1@gmail.com already exists. {"timestamp":"2025-06-30T08:14:34.919Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:44:14) {"timestamp":"2025-06-30T08:14:34.919Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:44:14) {"timestamp":"2025-06-30T08:19:20.258Z"}
+error: User with email chandan1@gmail.com already exists. {"timestamp":"2025-06-30T08:19:20.258Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:44:14) {"timestamp":"2025-06-30T09:17:47.187Z"}
+error: User with email kanti1@gmail.com already exists. {"timestamp":"2025-06-30T09:17:47.186Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:44:14) {"timestamp":"2025-06-30T09:18:00.025Z"}
+error: User with email kanti1@gmail.com already exists. {"timestamp":"2025-06-30T09:18:00.024Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:44:14) {"timestamp":"2025-06-30T09:18:08.574Z"}
+error: User with email kanti1@gmail.com already exists. {"timestamp":"2025-06-30T09:18:08.574Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:44:14) {"timestamp":"2025-06-30T09:18:31.366Z"}
+error: User with email kanti1@gmail.com already exists. {"timestamp":"2025-06-30T09:18:31.365Z"}
+error: User with email kanti1@gmail.com already exists. {"timestamp":"2025-06-30T09:18:51.889Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:44:14) {"timestamp":"2025-06-30T09:18:51.890Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:44:14) {"timestamp":"2025-06-30T09:19:30.164Z"}
+error: User with email kanti1@gmail.com already exists. {"timestamp":"2025-06-30T09:19:30.164Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:44:14) {"timestamp":"2025-06-30T09:19:47.333Z"}
+error: User with email kanti1@gmail.com already exists. {"timestamp":"2025-06-30T09:19:47.333Z"}
+error: User with email kanti1@gmail.com already exists. {"timestamp":"2025-06-30T09:20:23.260Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:44:14) {"timestamp":"2025-06-30T09:20:23.260Z"}
+error: User with email kanti1@gmail.com already exists. {"timestamp":"2025-06-30T09:20:55.901Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:44:14) {"timestamp":"2025-06-30T09:20:55.901Z"}
+error: User with email kanti1@gmail.com already exists. {"timestamp":"2025-06-30T09:22:37.164Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:44:14) {"timestamp":"2025-06-30T09:22:37.165Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:44:14) {"timestamp":"2025-06-30T09:23:10.559Z"}
+error: User with email kanti1@gmail.com already exists. {"timestamp":"2025-06-30T09:23:10.558Z"}
+error: User with email kanti1@gmail.com already exists. {"timestamp":"2025-06-30T09:23:59.957Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:44:14) {"timestamp":"2025-06-30T09:23:59.957Z"}
+error: User with email kanti1@gmail.com already exists. {"timestamp":"2025-06-30T09:26:52.777Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:44:14) {"timestamp":"2025-06-30T09:26:52.778Z"}
+error: User with email kanti1@gmail.com already exists. {"timestamp":"2025-06-30T09:26:55.245Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:44:14) {"timestamp":"2025-06-30T09:26:55.246Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:44:14) {"timestamp":"2025-06-30T09:27:08.475Z"}
+error: User with email kanti1@gmail.com already exists. {"timestamp":"2025-06-30T09:27:08.475Z"}
+error: User with email kanti1@gmail.com already exists. {"timestamp":"2025-06-30T09:27:15.760Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:44:14) {"timestamp":"2025-06-30T09:27:15.760Z"}
+error: User with email kanti1@gmail.com already exists. {"timestamp":"2025-06-30T09:27:55.747Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:44:14) {"timestamp":"2025-06-30T09:27:55.747Z"}
+error: User with email kanti1@gmail.com already exists. {"timestamp":"2025-06-30T09:28:04.766Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:44:14) {"timestamp":"2025-06-30T09:28:04.766Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:44:14) {"timestamp":"2025-06-30T09:28:36.152Z"}
+error: User with email kanti1@gmail.com already exists. {"timestamp":"2025-06-30T09:28:36.151Z"}
+error: User with email kanti1@gmail.com already exists. {"timestamp":"2025-06-30T09:28:48.070Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:44:14) {"timestamp":"2025-06-30T09:28:48.070Z"}
+error: User with email kanti1@gmail.com already exists. {"timestamp":"2025-06-30T09:29:18.170Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:44:14) {"timestamp":"2025-06-30T09:29:18.170Z"}
+error: User with email kanti1@gmail.com already exists. {"timestamp":"2025-06-30T09:29:31.660Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:44:14) {"timestamp":"2025-06-30T09:29:31.660Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:44:14) {"timestamp":"2025-06-30T09:30:13.034Z"}
+error: User with email kanti1@gmail.com already exists. {"timestamp":"2025-06-30T09:30:13.033Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:44:14) {"timestamp":"2025-06-30T09:30:19.998Z"}
+error: User with email kanti1@gmail.com already exists. {"timestamp":"2025-06-30T09:30:19.998Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:44:14) {"timestamp":"2025-06-30T09:30:28.469Z"}
+error: User with email kanti1@gmail.com already exists. {"timestamp":"2025-06-30T09:30:28.469Z"}
+error: User with email kanti1@gmail.com already exists. {"timestamp":"2025-06-30T09:32:26.991Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:44:14) {"timestamp":"2025-06-30T09:32:26.991Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 68624881a4d514bc2e796bb5 (casted: 68624881a4d514bc2e796bb5) {"timestamp":"2025-06-30T09:39:57.267Z"}
+error: [deleteUserService] Removing from Elasticsearch: 68624881a4d514bc2e796bb5 {"timestamp":"2025-06-30T09:39:57.300Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-06-30T09:39:57.301Z"}
+error: User with email shubham1@gmail.com already exists. {"timestamp":"2025-06-30T09:41:17.934Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:44:14) {"timestamp":"2025-06-30T09:41:17.934Z"}
+error: User with email shubham1@gmail.com already exists. {"timestamp":"2025-06-30T09:41:45.421Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:44:14) {"timestamp":"2025-06-30T09:41:45.421Z"}
+error: User with email shubham1@gmail.com already exists. {"timestamp":"2025-06-30T09:43:00.205Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:44:14) {"timestamp":"2025-06-30T09:43:00.207Z"}
+error: User with email shubham1@gmail.com already exists. {"timestamp":"2025-06-30T09:43:17.028Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:44:14) {"timestamp":"2025-06-30T09:43:17.028Z"}
+error: User with email shubham1@gmail.com already exists. {"timestamp":"2025-06-30T09:43:23.937Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:44:14) {"timestamp":"2025-06-30T09:43:23.937Z"}
+error: User with email shubham1@gmail.com already exists. {"timestamp":"2025-06-30T09:43:34.693Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:44:14) {"timestamp":"2025-06-30T09:43:34.693Z"}
+error: User with email shubham1@gmail.com already exists. {"timestamp":"2025-06-30T09:45:16.326Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:44:14) {"timestamp":"2025-06-30T09:45:16.326Z"}
+error: User with email shubham1@gmail.com already exists. {"timestamp":"2025-06-30T09:45:31.968Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:44:14) {"timestamp":"2025-06-30T09:45:31.969Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 686246b5a4d514bc2e796ba3 (casted: 686246b5a4d514bc2e796ba3) {"timestamp":"2025-06-30T10:29:32.279Z"}
+error: [deleteUserService] Removing from Elasticsearch: 686246b5a4d514bc2e796ba3 {"timestamp":"2025-06-30T10:29:32.342Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-06-30T10:29:32.343Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 685e37c3b9ae0f6208128f64 (casted: 685e37c3b9ae0f6208128f64) {"timestamp":"2025-06-30T10:35:12.629Z"}
+error: [deleteUserService] Removing from Elasticsearch: 685e37c3b9ae0f6208128f64 {"timestamp":"2025-06-30T10:35:12.653Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-06-30T10:35:12.654Z"}

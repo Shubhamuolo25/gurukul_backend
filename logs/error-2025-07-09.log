@@ -1,0 +1,56 @@
+error: TypeError: loggers.error is not a function
+    at /Users/shubham/Desktop/projrct/level-1/backend/middleware/authMiddleware.js:16:15
+    at module.exports [as verify] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/jsonwebtoken/verify.js:60:12)
+    at authenticateToken (/Users/shubham/Desktop/projrct/level-1/backend/middleware/authMiddleware.js:14:7)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12) {"timestamp":"2025-07-09T07:22:27.621Z"}
+error: TypeError: loggers.error is not a function
+    at /Users/shubham/Desktop/projrct/level-1/backend/middleware/authMiddleware.js:16:15
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/jsonwebtoken/verify.js:190:16
+    at getSecret (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/jsonwebtoken/verify.js:97:14)
+    at module.exports [as verify] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/jsonwebtoken/verify.js:101:10)
+    at authenticateToken (/Users/shubham/Desktop/projrct/level-1/backend/middleware/authMiddleware.js:14:7)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17) {"timestamp":"2025-07-09T07:22:49.131Z"}
+error: TypeError: loggers.error is not a function
+    at /Users/shubham/Desktop/projrct/level-1/backend/middleware/authMiddleware.js:16:15
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/jsonwebtoken/verify.js:190:16
+    at getSecret (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/jsonwebtoken/verify.js:97:14)
+    at module.exports [as verify] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/jsonwebtoken/verify.js:101:10)
+    at authenticateToken (/Users/shubham/Desktop/projrct/level-1/backend/middleware/authMiddleware.js:14:7)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17) {"timestamp":"2025-07-09T07:25:27.480Z"}
+error: TypeError: loggers.error is not a function
+    at /Users/shubham/Desktop/projrct/level-1/backend/middleware/authMiddleware.js:16:15
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/jsonwebtoken/verify.js:190:16
+    at getSecret (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/jsonwebtoken/verify.js:97:14)
+    at module.exports [as verify] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/jsonwebtoken/verify.js:101:10)
+    at authenticateToken (/Users/shubham/Desktop/projrct/level-1/backend/middleware/authMiddleware.js:14:7)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17) {"timestamp":"2025-07-09T07:25:52.255Z"}
+error: User with email shubham1@gmail.com already exists. {"timestamp":"2025-07-09T09:19:19.292Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:44:14) {"timestamp":"2025-07-09T09:19:19.298Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 685d3fc0b9ae0f6208128efe (casted: 685d3fc0b9ae0f6208128efe) {"timestamp":"2025-07-09T09:34:24.866Z"}
+error: [deleteUserService] Removing from Elasticsearch: 685d3fc0b9ae0f6208128efe {"timestamp":"2025-07-09T09:34:24.922Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-07-09T09:34:24.923Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 685d3fc0b9ae0f6208128efe (casted: 685d3fc0b9ae0f6208128efe) {"timestamp":"2025-07-09T09:34:25.076Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-07-09T09:34:25.100Z"}
+error: [deleteUserService] Removing from Elasticsearch: 685d3fc0b9ae0f6208128efe {"timestamp":"2025-07-09T09:34:25.099Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 685d3fc0b9ae0f6208128efe (casted: 685d3fc0b9ae0f6208128efe) {"timestamp":"2025-07-09T09:34:25.256Z"}
+error: [deleteUserService] Removing from Elasticsearch: 685d3fc0b9ae0f6208128efe {"timestamp":"2025-07-09T09:34:25.278Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-07-09T09:34:25.278Z"}

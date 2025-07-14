@@ -1,0 +1,13 @@
+error: TypeError: startMongoToElasticsearchSync is not a function
+    at /Users/shubham/Desktop/projrct/level-1/backend/index.js:55:3
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) {"timestamp":"2025-07-14T04:47:40.615Z"}
+error: User with email shubhamtest6@gmail.com already exists. {"timestamp":"2025-07-14T04:49:07.748Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/Controller/user.js:18:14) {"timestamp":"2025-07-14T04:49:07.749Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 68748c5a3ecb69acc37671f6 (casted: 68748c5a3ecb69acc37671f6) {"timestamp":"2025-07-14T04:50:16.244Z"}
+error: [deleteUserService] Removing from Elasticsearch: 68748c5a3ecb69acc37671f6 {"timestamp":"2025-07-14T04:50:16.281Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-07-14T04:50:16.282Z"}
+error: ReferenceError: indexUser is not defined
+    at bulkSyncUsersToElasticsearch (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:219:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/index.js:50:3 {"timestamp":"2025-07-14T04:51:34.333Z"}

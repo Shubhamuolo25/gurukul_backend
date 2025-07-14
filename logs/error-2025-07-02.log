@@ -1,0 +1,69 @@
+error: [deleteUserService] Attempting to soft-delete user with id: 6864d4d12223a4d578dd5a72 (casted: 6864d4d12223a4d578dd5a72) {"timestamp":"2025-07-02T08:39:52.904Z"}
+error: [deleteUserService] Removing from Elasticsearch: 6864d4d12223a4d578dd5a72 {"timestamp":"2025-07-02T08:39:53.011Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-07-02T08:39:53.012Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: <userId> (casted: <userId>) {"timestamp":"2025-07-02T08:41:44.990Z"}
+error: CastError: Cast to ObjectId failed for value "<userId>" (type string) at path "_id" for model "User"
+    at SchemaObjectId.cast (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongoose/lib/schema/objectId.js:251:11)
+    at SchemaType.applySetters (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongoose/lib/schemaType.js:1255:12)
+    at SchemaType.castForQuery (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongoose/lib/schemaType.js:1673:17)
+    at cast (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongoose/lib/cast.js:390:32)
+    at Query.cast (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongoose/lib/query.js:5055:12)
+    at Query._castConditions (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongoose/lib/query.js:2351:10)
+    at model.Query._findOneAndUpdate (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongoose/lib/query.js:3454:8)
+    at model.Query.exec (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongoose/lib/query.js:4604:80)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async deleteUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:137:21) {"timestamp":"2025-07-02T08:41:45.002Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 685d3326d8b2ae48fd681d78 (casted: 685d3326d8b2ae48fd681d78) {"timestamp":"2025-07-02T08:49:31.957Z"}
+error: [deleteUserService] Removing from Elasticsearch: 685d3326d8b2ae48fd681d78 {"timestamp":"2025-07-02T08:49:31.992Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-07-02T08:49:31.995Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 685d3326d8b2ae48fd681d78 (casted: 685d3326d8b2ae48fd681d78) {"timestamp":"2025-07-02T08:49:35.168Z"}
+error: [deleteUserService] Removing from Elasticsearch: 685d3326d8b2ae48fd681d78 {"timestamp":"2025-07-02T08:49:35.188Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-07-02T08:49:35.190Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 68625b12a4d514bc2e796bff (casted: 68625b12a4d514bc2e796bff) {"timestamp":"2025-07-02T08:49:40.177Z"}
+error: [deleteUserService] Removing from Elasticsearch: 68625b12a4d514bc2e796bff {"timestamp":"2025-07-02T08:49:40.198Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-07-02T08:49:40.198Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 68625b12a4d514bc2e796bff (casted: 68625b12a4d514bc2e796bff) {"timestamp":"2025-07-02T08:49:44.435Z"}
+error: [deleteUserService] Removing from Elasticsearch: 68625b12a4d514bc2e796bff {"timestamp":"2025-07-02T08:49:44.459Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-07-02T08:49:44.460Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 6862644e9c6e4bfa98afd577 (casted: 6862644e9c6e4bfa98afd577) {"timestamp":"2025-07-02T08:50:32.583Z"}
+error: [deleteUserService] Removing from Elasticsearch: 6862644e9c6e4bfa98afd577 {"timestamp":"2025-07-02T08:50:32.606Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-07-02T08:50:32.606Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 686245e3a4d514bc2e796b9b (casted: 686245e3a4d514bc2e796b9b) {"timestamp":"2025-07-02T08:51:03.972Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-07-02T08:51:04.002Z"}
+error: [deleteUserService] Removing from Elasticsearch: 686245e3a4d514bc2e796b9b {"timestamp":"2025-07-02T08:51:04.000Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 686263e29c6e4bfa98afd571 (casted: 686263e29c6e4bfa98afd571) {"timestamp":"2025-07-02T08:52:16.834Z"}
+error: [deleteUserService] Removing from Elasticsearch: 686263e29c6e4bfa98afd571 {"timestamp":"2025-07-02T08:52:16.859Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-07-02T08:52:16.859Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 685d40fab9ae0f6208128f0e (casted: 685d40fab9ae0f6208128f0e) {"timestamp":"2025-07-02T08:52:57.168Z"}
+error: [deleteUserService] Removing from Elasticsearch: 685d40fab9ae0f6208128f0e {"timestamp":"2025-07-02T08:52:57.204Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-07-02T08:52:57.205Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 68625a88a4d514bc2e796bfb (casted: 68625a88a4d514bc2e796bfb) {"timestamp":"2025-07-02T08:54:29.789Z"}
+error: [deleteUserService] Removing from Elasticsearch: 68625a88a4d514bc2e796bfb {"timestamp":"2025-07-02T08:54:29.839Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-07-02T08:54:29.840Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 68625447a4d514bc2e796bd0 (casted: 68625447a4d514bc2e796bd0) {"timestamp":"2025-07-02T08:56:43.446Z"}
+error: [deleteUserService] Removing from Elasticsearch: 68625447a4d514bc2e796bd0 {"timestamp":"2025-07-02T08:56:43.481Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-07-02T08:56:43.482Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 68625425a4d514bc2e796bcc (casted: 68625425a4d514bc2e796bcc) {"timestamp":"2025-07-02T08:58:32.914Z"}
+error: [deleteUserService] Removing from Elasticsearch: 68625425a4d514bc2e796bcc {"timestamp":"2025-07-02T08:58:32.938Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-07-02T08:58:32.939Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 68625b38a4d514bc2e796c09 (casted: 68625b38a4d514bc2e796c09) {"timestamp":"2025-07-02T08:58:47.589Z"}
+error: [deleteUserService] Removing from Elasticsearch: 68625b38a4d514bc2e796c09 {"timestamp":"2025-07-02T08:58:47.612Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-07-02T08:58:47.613Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 6862531ca4d514bc2e796bc2 (casted: 6862531ca4d514bc2e796bc2) {"timestamp":"2025-07-02T09:00:08.932Z"}
+error: [deleteUserService] Removing from Elasticsearch: 6862531ca4d514bc2e796bc2 {"timestamp":"2025-07-02T09:00:08.965Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-07-02T09:00:08.965Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 686252b8a4d514bc2e796bbc (casted: 686252b8a4d514bc2e796bbc) {"timestamp":"2025-07-02T09:01:21.108Z"}
+error: [deleteUserService] Removing from Elasticsearch: 686252b8a4d514bc2e796bbc {"timestamp":"2025-07-02T09:01:21.132Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-07-02T09:01:21.132Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 6862478da4d514bc2e796baf (casted: 6862478da4d514bc2e796baf) {"timestamp":"2025-07-02T09:02:35.882Z"}
+error: [deleteUserService] Removing from Elasticsearch: 6862478da4d514bc2e796baf {"timestamp":"2025-07-02T09:02:35.933Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-07-02T09:02:35.934Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 6862476aa4d514bc2e796ba8 (casted: 6862476aa4d514bc2e796ba8) {"timestamp":"2025-07-02T09:03:27.235Z"}
+error: [deleteUserService] Removing from Elasticsearch: 6862476aa4d514bc2e796ba8 {"timestamp":"2025-07-02T09:03:27.257Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-07-02T09:03:27.257Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 68622fb02dbe4467b567456f (casted: 68622fb02dbe4467b567456f) {"timestamp":"2025-07-02T09:10:32.533Z"}
+error: [deleteUserService] Removing from Elasticsearch: 68622fb02dbe4467b567456f {"timestamp":"2025-07-02T09:10:32.573Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-07-02T09:10:32.574Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 68652689f93e409e9a8e60bf (casted: 68652689f93e409e9a8e60bf) {"timestamp":"2025-07-02T12:31:54.666Z"}
+error: [deleteUserService] Removing from Elasticsearch: 68652689f93e409e9a8e60bf {"timestamp":"2025-07-02T12:31:54.747Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-07-02T12:31:54.748Z"}

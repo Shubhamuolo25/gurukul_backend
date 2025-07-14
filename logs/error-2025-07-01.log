@@ -1,0 +1,175 @@
+error: [deleteUserService] Attempting to soft-delete user with id: 685d3b1eb9ae0f6208128ee6 (casted: 685d3b1eb9ae0f6208128ee6) {"timestamp":"2025-07-01T05:34:40.538Z"}
+error: [deleteUserService] Removing from Elasticsearch: 685d3b1eb9ae0f6208128ee6 {"timestamp":"2025-07-01T05:34:40.589Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-07-01T05:34:40.594Z"}
+error: TypeError: searchUsers is not a function
+    at /Users/shubham/Desktop/projrct/level-1/backend/routes/routes.js:11:53
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-07-01T07:25:20.254Z"}
+error: TypeError: searchUsersService is not a function
+    at searchUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:82:26)
+    at /Users/shubham/Desktop/projrct/level-1/backend/routes/routes.js:11:53
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5) {"timestamp":"2025-07-01T08:07:22.650Z"}
+error: TypeError: searchUsersService is not a function
+    at searchUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:82:26)
+    at /Users/shubham/Desktop/projrct/level-1/backend/routes/routes.js:11:53
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5) {"timestamp":"2025-07-01T08:07:35.583Z"}
+error: TypeError: searchUsersService is not a function
+    at searchUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:82:26)
+    at /Users/shubham/Desktop/projrct/level-1/backend/routes/routes.js:11:53
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5) {"timestamp":"2025-07-01T08:07:40.791Z"}
+error: TypeError: searchUsersService is not a function
+    at searchUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:82:26)
+    at /Users/shubham/Desktop/projrct/level-1/backend/routes/routes.js:11:53
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5) {"timestamp":"2025-07-01T08:07:47.274Z"}
+error: TypeError: searchUsersService is not a function
+    at searchUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:82:26)
+    at /Users/shubham/Desktop/projrct/level-1/backend/routes/routes.js:11:53
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5) {"timestamp":"2025-07-01T08:08:07.221Z"}
+error: TypeError: searchUsersService is not a function
+    at searchUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:82:26)
+    at /Users/shubham/Desktop/projrct/level-1/backend/routes/routes.js:11:53
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5) {"timestamp":"2025-07-01T08:08:31.147Z"}
+error: TypeError: searchUsersService is not a function
+    at searchUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:82:26)
+    at /Users/shubham/Desktop/projrct/level-1/backend/routes/routes.js:11:53
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5) {"timestamp":"2025-07-01T08:08:38.363Z"}
+error: TypeError: searchUsersService is not a function
+    at searchUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:82:26)
+    at /Users/shubham/Desktop/projrct/level-1/backend/routes/routes.js:11:53
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5) {"timestamp":"2025-07-01T08:09:05.090Z"}
+error: TypeError: startMongoToElasticsearchSync is not a function
+    at /Users/shubham/Desktop/projrct/level-1/backend/index.js:49:3
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) {"timestamp":"2025-07-01T10:24:42.317Z"}
+error: ResponseError: search_phase_execution_exception
+	Root causes:
+		query_shard_exception: failed to create query: Can only use phrase prefix queries on text fields - not on [email] which is of type [keyword]
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:533:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Client.SearchApi [as search] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/search.js:156:12)
+    at async searchUsers (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:53:20)
+    at async searchUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:82:20) {"timestamp":"2025-07-01T11:47:21.501Z"}
+error: ResponseError: search_phase_execution_exception
+	Root causes:
+		query_shard_exception: failed to create query: Can only use phrase prefix queries on text fields - not on [email] which is of type [keyword]
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:533:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Client.SearchApi [as search] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/search.js:156:12)
+    at async searchUsers (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:53:20)
+    at async searchUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:82:20) {"timestamp":"2025-07-01T11:47:22.419Z"}
+error: ResponseError: search_phase_execution_exception
+	Root causes:
+		query_shard_exception: failed to create query: Can only use phrase prefix queries on text fields - not on [email] which is of type [keyword]
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:533:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Client.SearchApi [as search] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/search.js:156:12)
+    at async searchUsers (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:53:20)
+    at async searchUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:82:20) {"timestamp":"2025-07-01T11:47:23.130Z"}
+error: ResponseError: search_phase_execution_exception
+	Root causes:
+		query_shard_exception: failed to create query: Can only use phrase prefix queries on text fields - not on [email] which is of type [keyword]
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:533:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Client.SearchApi [as search] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/search.js:156:12)
+    at async searchUsers (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:53:20)
+    at async searchUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:82:20) {"timestamp":"2025-07-01T11:47:26.281Z"}
+error: ResponseError: search_phase_execution_exception
+	Root causes:
+		query_shard_exception: failed to create query: Can only use phrase prefix queries on text fields - not on [email] which is of type [keyword]
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:533:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Client.SearchApi [as search] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/search.js:156:12)
+    at async searchUsers (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:54:20)
+    at async searchUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:82:20) {"timestamp":"2025-07-01T11:49:01.632Z"}
+error: ResponseError: search_phase_execution_exception
+	Root causes:
+		query_shard_exception: failed to create query: Can only use phrase prefix queries on text fields - not on [email] which is of type [keyword]
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:533:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Client.SearchApi [as search] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/search.js:156:12)
+    at async searchUsers (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:54:20)
+    at async searchUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:82:20) {"timestamp":"2025-07-01T11:49:02.389Z"}
+error: ResponseError: search_phase_execution_exception
+	Root causes:
+		query_shard_exception: failed to create query: Can only use phrase prefix queries on text fields - not on [email] which is of type [keyword]
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:533:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Client.SearchApi [as search] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/search.js:156:12)
+    at async searchUsers (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:54:20)
+    at async searchUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:82:20) {"timestamp":"2025-07-01T11:49:03.024Z"}

@@ -1,0 +1,92 @@
+error: ValidationError: Full name is required. Email is required.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/Controller/user.js:40:14)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at done (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/multer/lib/make-middleware.js:59:7)
+    at indicateDone (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/multer/lib/make-middleware.js:63:68)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/multer/lib/make-middleware.js:171:11
+    at ManagedUpload.callback (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/multer-s3/index.js:219:7)
+    at Response.finishSinglePart (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/aws-sdk/lib/s3/managed_upload.js:686:12)
+    at Request.<anonymous> (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/aws-sdk/lib/request.js:367:18)
+    at Request.callListeners (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/aws-sdk/lib/sequential_executor.js:106:20) {"timestamp":"2025-06-25T05:20:23.162Z"}
+error: ValidationError: Full name is required. Email is required.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/Controller/user.js:40:14)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at done (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/multer/lib/make-middleware.js:59:7)
+    at indicateDone (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/multer/lib/make-middleware.js:63:68)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/multer/lib/make-middleware.js:171:11
+    at ManagedUpload.callback (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/multer-s3/index.js:219:7)
+    at Response.finishSinglePart (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/aws-sdk/lib/s3/managed_upload.js:686:12)
+    at Request.<anonymous> (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/aws-sdk/lib/request.js:367:18)
+    at Request.callListeners (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/aws-sdk/lib/sequential_executor.js:106:20) {"timestamp":"2025-06-25T05:20:29.193Z"}
+error: CastError: Cast to ObjectId failed for value "12" (type string) at path "_id" for model "User"
+    at SchemaObjectId.cast (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongoose/lib/schema/objectId.js:251:11)
+    at SchemaType.applySetters (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongoose/lib/schemaType.js:1255:12)
+    at SchemaType.castForQuery (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongoose/lib/schemaType.js:1673:17)
+    at cast (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongoose/lib/cast.js:390:32)
+    at Query.cast (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongoose/lib/query.js:5055:12)
+    at Query._castConditions (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongoose/lib/query.js:2351:10)
+    at model.Query._findOneAndUpdate (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongoose/lib/query.js:3454:8)
+    at model.Query.exec (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongoose/lib/query.js:4604:80)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async deleteUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:68:19) {"timestamp":"2025-06-25T05:22:01.736Z"}
+error: ApiError: {"message":"Invalid ID"}
+    at deleteUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:70:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async deleteUser (/Users/shubham/Desktop/projrct/level-1/backend/Controller/user.js:67:20) {"timestamp":"2025-06-25T05:22:29.043Z"}
+error: ApiError: User Not found
+    at deleteUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:70:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async deleteUser (/Users/shubham/Desktop/projrct/level-1/backend/Controller/user.js:67:20) {"timestamp":"2025-06-25T05:23:08.573Z"}
+error: ApiError: Email Already Exists
+    at addUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:14:13)
+    at async addUser (/Users/shubham/Desktop/projrct/level-1/backend/Controller/user.js:42:21) {"timestamp":"2025-06-25T05:25:28.590Z"}
+error: ApiError: Email Already Exists
+    at addUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:14:13)
+    at async addUser (/Users/shubham/Desktop/projrct/level-1/backend/Controller/user.js:42:21) {"timestamp":"2025-06-25T05:25:30.734Z"}
+error: ApiError: Email Already Exists
+    at addUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:14:13)
+    at async addUser (/Users/shubham/Desktop/projrct/level-1/backend/Controller/user.js:42:21) {"timestamp":"2025-06-25T05:25:32.273Z"}
+error: ApiError: Email Already Exists
+    at addUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:14:13)
+    at async addUser (/Users/shubham/Desktop/projrct/level-1/backend/Controller/user.js:42:21) {"timestamp":"2025-06-25T05:30:19.548Z"}
+error: ApiError: Email Already Exists
+    at addUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:14:13)
+    at async addUser (/Users/shubham/Desktop/projrct/level-1/backend/Controller/user.js:42:21) {"timestamp":"2025-06-25T05:31:29.612Z"}
+error: ApiError: Email Already Exists
+    at addUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:14:13)
+    at async addUser (/Users/shubham/Desktop/projrct/level-1/backend/Controller/user.js:42:21) {"timestamp":"2025-06-25T05:31:57.791Z"}
+error: ApiError: Email Already Exists
+    at addUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:14:13)
+    at async addUser (/Users/shubham/Desktop/projrct/level-1/backend/Controller/user.js:42:21) {"timestamp":"2025-06-25T05:35:30.948Z"}
+error: ApiError: Email Already Exists
+    at addUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:14:13)
+    at async addUser (/Users/shubham/Desktop/projrct/level-1/backend/Controller/user.js:42:21) {"timestamp":"2025-06-25T05:35:34.667Z"}
+error: ApiError: Email Already Exists
+    at addUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:14:13)
+    at async addUser (/Users/shubham/Desktop/projrct/level-1/backend/Controller/user.js:42:21) {"timestamp":"2025-06-25T05:37:55.277Z"}
+error: ApiError: Email Already Exists
+    at addUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:14:13)
+    at async addUser (/Users/shubham/Desktop/projrct/level-1/backend/Controller/user.js:42:21) {"timestamp":"2025-06-25T05:40:01.163Z"}
+error: ApiError: Email Already Exists
+    at addUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:14:13)
+    at async addUser (/Users/shubham/Desktop/projrct/level-1/backend/Controller/user.js:42:21) {"timestamp":"2025-06-25T05:40:11.971Z"}
+error: ApiError: Email Already Exists
+    at addUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:14:13)
+    at async addUser (/Users/shubham/Desktop/projrct/level-1/backend/Controller/user.js:42:21) {"timestamp":"2025-06-25T05:40:29.434Z"}
+error: ApiError: Email Already Exists
+    at addUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:14:13)
+    at async addUser (/Users/shubham/Desktop/projrct/level-1/backend/Controller/user.js:42:21) {"timestamp":"2025-06-25T05:40:51.452Z"}
+error: ApiError: Email Already Exists
+    at addUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:14:13)
+    at async addUser (/Users/shubham/Desktop/projrct/level-1/backend/Controller/user.js:42:21) {"timestamp":"2025-06-25T05:42:24.570Z"}
+error: ApiError: Email Already Exists
+    at addUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:14:13)
+    at async addUser (/Users/shubham/Desktop/projrct/level-1/backend/Controller/user.js:42:21) {"timestamp":"2025-06-25T05:42:29.859Z"}
+error: ApiError: Email Already Exists
+    at addUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:14:13)
+    at async addUser (/Users/shubham/Desktop/projrct/level-1/backend/Controller/user.js:42:21) {"timestamp":"2025-06-25T05:43:32.296Z"}
+error: ApiError: Email Already Exists
+    at addUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:14:13)
+    at async addUser (/Users/shubham/Desktop/projrct/level-1/backend/Controller/user.js:42:21) {"timestamp":"2025-06-25T06:06:07.398Z"}

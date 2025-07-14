@@ -1,0 +1,3 @@
+error: [deleteUserService] Attempting to soft-delete user with id: 685d353ffe4f85cac31efef6 (casted: 685d353ffe4f85cac31efef6) {"timestamp":"2025-07-04T07:05:10.898Z"}
+error: [deleteUserService] Removing from Elasticsearch: 685d353ffe4f85cac31efef6 {"timestamp":"2025-07-04T07:05:10.976Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-07-04T07:05:10.977Z"}

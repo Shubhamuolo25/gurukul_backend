@@ -1,0 +1,112 @@
+error: Error: data and salt arguments required
+    at Object.hash (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/bcrypt/bcrypt.js:133:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/bcrypt/promises.js:26:12
+    at new Promise (<anonymous>)
+    at Object.promise (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/bcrypt/promises.js:17:12)
+    at Object.hash (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/bcrypt/bcrypt.js:129:25)
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:13:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) {"timestamp":"2025-06-23T07:18:16.634Z"}
+error: Error: data and salt arguments required
+    at Object.hash (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/bcrypt/bcrypt.js:133:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/bcrypt/promises.js:26:12
+    at new Promise (<anonymous>)
+    at Object.promise (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/bcrypt/promises.js:17:12)
+    at Object.hash (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/bcrypt/bcrypt.js:129:25)
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:13:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) {"timestamp":"2025-06-23T07:18:17.288Z"}
+error: Error: data and salt arguments required
+    at Object.hash (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/bcrypt/bcrypt.js:133:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/bcrypt/promises.js:26:12
+    at new Promise (<anonymous>)
+    at Object.promise (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/bcrypt/promises.js:17:12)
+    at Object.hash (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/bcrypt/bcrypt.js:129:25)
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:13:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) {"timestamp":"2025-06-23T07:18:17.491Z"}
+error: Error: data and salt arguments required
+    at Object.hash (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/bcrypt/bcrypt.js:133:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/bcrypt/promises.js:26:12
+    at new Promise (<anonymous>)
+    at Object.promise (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/bcrypt/promises.js:17:12)
+    at Object.hash (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/bcrypt/bcrypt.js:129:25)
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:13:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) {"timestamp":"2025-06-23T07:18:17.627Z"}
+error: User with email shubham25@gmail.com already exists. {"timestamp":"2025-06-23T07:32:26.073Z"}
+error: User with email shubham25@gmail.com already exists. {"timestamp":"2025-06-23T07:32:37.284Z"}
+error: User with email shubham25@gmail.com already exists. {"timestamp":"2025-06-23T07:35:44.486Z"}
+error: User with email shubham25@gmail.com already exists. {"timestamp":"2025-06-23T07:35:45.862Z"}
+error: User with email shubham25@gmail.com already exists. {"timestamp":"2025-06-23T07:35:58.499Z"}
+error: User with email shubham25@gmail.com already exists. {"timestamp":"2025-06-23T07:36:16.734Z"}
+error: User with email shubham25@gmail.com already exists. {"timestamp":"2025-06-23T07:36:17.866Z"}
+error: User with email shubham25@gmail.com already exists. {"timestamp":"2025-06-23T07:36:22.605Z"}
+error: User with email shubham25@gmail.com already exists. {"timestamp":"2025-06-23T07:36:41.773Z"}
+error: User with email shubham25@gmail.com already exists. {"timestamp":"2025-06-23T07:36:49.394Z"}
+error: User with email shubham25@gmail.com already exists. {"timestamp":"2025-06-23T07:36:59.538Z"}
+error: User with email shubham28@gmail.com already exists. {"timestamp":"2025-06-23T07:38:43.224Z"}
+error: TypeError: S3service.getSignedUrl is not a function
+    at /Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:88:44
+    at Array.map (<anonymous>)
+    at getUsersService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:83:49)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async getUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/getusers.js:5:20) {"timestamp":"2025-06-23T09:31:46.121Z"}
+error: TypeError: S3service.getSignedUrl is not a function
+    at /Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:88:44
+    at Array.map (<anonymous>)
+    at getUsersService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:83:49)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async getUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/getusers.js:5:20) {"timestamp":"2025-06-23T09:31:48.866Z"}
+error: TypeError: S3service.getSignedUrl is not a function
+    at /Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:88:44
+    at Array.map (<anonymous>)
+    at getUsersService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:83:49)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async getUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/getusers.js:5:20) {"timestamp":"2025-06-23T09:31:50.706Z"}
+error: TypeError: S3service.getSignedUrl is not a function
+    at /Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:87:44
+    at Array.map (<anonymous>)
+    at getUsersService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:82:49)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async getUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/getusers.js:6:18) {"timestamp":"2025-06-23T09:35:41.268Z"}
+error: TypeError: S3service.getSignedUrl is not a function
+    at /Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:87:44
+    at Array.map (<anonymous>)
+    at getUsersService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:82:49)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async getUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/getusers.js:6:18) {"timestamp":"2025-06-23T09:35:48.933Z"}
+error: TypeError: S3service.getSignedUrl is not a function
+    at /Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:87:44
+    at Array.map (<anonymous>)
+    at getUsersService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:82:49)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async getUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/getusers.js:6:18) {"timestamp":"2025-06-23T09:35:57.381Z"}
+error: User with email shubham232@gmail.com already exists. {"timestamp":"2025-06-23T09:40:29.270Z"}
+error: User with email shubham232@gmail.com already exists. {"timestamp":"2025-06-23T09:42:21.850Z"}
+error: User with email shubham@3gmail.com already exists. {"timestamp":"2025-06-23T11:15:09.901Z"}
+error: User with email shubham@3gmail.com already exists. {"timestamp":"2025-06-23T11:16:51.767Z"}
+error: User with email shubham@3gmail.com already exists. {"timestamp":"2025-06-23T11:17:12.074Z"}
+error: User with email shubham@3gmail.com already exists. {"timestamp":"2025-06-23T11:17:52.433Z"}
+error: User with email shubham@3gmail.com already exists. {"timestamp":"2025-06-23T11:19:17.201Z"}
+error: User with email shubham@3gmail.com already exists. {"timestamp":"2025-06-23T11:19:33.726Z"}
+error: User with email shubham@3gmail.com already exists. {"timestamp":"2025-06-23T11:20:29.476Z"}
+error: User with email shubham@3gmail.com already exists. {"timestamp":"2025-06-23T11:20:31.775Z"}
+error: User with email shubham@3gmail.com already exists. {"timestamp":"2025-06-23T11:21:19.511Z"}
+error: User with email shubham@3gmail.com already exists. {"timestamp":"2025-06-23T11:21:29.583Z"}
+error: User with email shubham@3gmail.com already exists. {"timestamp":"2025-06-23T11:22:04.681Z"}
+error: User with email shubham@3gmail.com already exists. {"timestamp":"2025-06-23T11:22:38.722Z"}
+error: User with email shubham@3gmail.com already exists. {"timestamp":"2025-06-23T11:23:41.683Z"}
+error: User with email shubham@3gmail.com already exists. {"timestamp":"2025-06-23T11:23:53.531Z"}
+error: User with email shubham@3gmail.com already exists. {"timestamp":"2025-06-23T11:26:12.479Z"}
+error: User with email shubham@3gmail.com already exists. {"timestamp":"2025-06-23T11:26:38.741Z"}
+error: User with email shubham@3gmail.com already exists. {"timestamp":"2025-06-23T11:27:01.211Z"}
+error: User with email shubham@3gmail.com already exists. {"timestamp":"2025-06-23T11:27:42.779Z"}
+error: User with email shubham@3gmail.com already exists. {"timestamp":"2025-06-23T11:28:41.952Z"}
+error: User with email shubham@3gmail.com already exists. {"timestamp":"2025-06-23T11:28:43.275Z"}
+error: User with email shubham@3gmail.com already exists. {"timestamp":"2025-06-23T11:29:17.714Z"}
+error: User with email shubham@3gmail.com already exists. {"timestamp":"2025-06-23T11:29:18.881Z"}
+error: User with email shubham@3gmail.com already exists. {"timestamp":"2025-06-23T11:29:19.721Z"}
+error: User with email shubham@3gmail.com already exists. {"timestamp":"2025-06-23T11:29:20.507Z"}
+error: User with email shubham@3gmail.com already exists. {"timestamp":"2025-06-23T11:29:21.194Z"}
+error: User with email shubham@3gmail.com already exists. {"timestamp":"2025-06-23T11:29:29.604Z"}
+error: User with email shubham@3gmail.com already exists. {"timestamp":"2025-06-23T11:30:55.339Z"}
+error: User with email shubham@3gmail.com already exists. {"timestamp":"2025-06-23T11:45:08.074Z"}
+error: User with email shubham@3gmail.com already exists. {"timestamp":"2025-06-23T12:30:01.075Z"}
+error: User with email shubham@3gmail.com already exists. {"timestamp":"2025-06-23T12:31:48.614Z"}

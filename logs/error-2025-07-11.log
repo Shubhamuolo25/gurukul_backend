@@ -1,0 +1,102 @@
+error: TypeError: res.clearCookie is not a function
+    at exports.logout (/Users/shubham/Desktop/projrct/level-1/backend/controller/auth.js:32:7)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-07-11T05:50:01.580Z"}
+error: ReferenceError: ensureUserIndex is not defined
+    at indexUser (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:43:3)
+    at bulkSyncUsersToElasticsearch (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:225:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/index.js:50:3 {"timestamp":"2025-07-11T06:17:44.980Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 686e434a71985e62c145620c (casted: 686e434a71985e62c145620c) {"timestamp":"2025-07-11T06:50:14.556Z"}
+error: [deleteUserService] Removing from Elasticsearch: 686e434a71985e62c145620c {"timestamp":"2025-07-11T06:50:14.600Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-07-11T06:50:14.600Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 685d3b1eb9ae0f6208128ee6 (casted: 685d3b1eb9ae0f6208128ee6) {"timestamp":"2025-07-11T06:51:42.732Z"}
+error: [deleteUserService] Removing from Elasticsearch: 685d3b1eb9ae0f6208128ee6 {"timestamp":"2025-07-11T06:51:42.755Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-07-11T06:51:42.756Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 686e3427d447e679130bd970 (casted: 686e3427d447e679130bd970) {"timestamp":"2025-07-11T06:54:02.803Z"}
+error: [deleteUserService] Removing from Elasticsearch: 686e3427d447e679130bd970 {"timestamp":"2025-07-11T06:54:02.833Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-07-11T06:54:02.833Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 685e2eb2b9ae0f6208128f30 (casted: 685e2eb2b9ae0f6208128f30) {"timestamp":"2025-07-11T06:59:15.926Z"}
+error: [deleteUserService] Removing from Elasticsearch: 685e2eb2b9ae0f6208128f30 {"timestamp":"2025-07-11T06:59:15.956Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-07-11T06:59:15.956Z"}
+error: ReferenceError: indexUser is not defined
+    at bulkSyncUsersToElasticsearch (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:225:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/index.js:50:3 {"timestamp":"2025-07-11T06:59:55.670Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 6870b6e745f2962388a7431e (casted: 6870b6e745f2962388a7431e) {"timestamp":"2025-07-11T07:04:15.585Z"}
+error: [deleteUserService] Removing from Elasticsearch: 6870b6e745f2962388a7431e {"timestamp":"2025-07-11T07:04:15.616Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-07-11T07:04:15.616Z"}
+error: ConnectionError
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:599:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Indices.exists (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/indices.js:1557:16)
+    at async ensureUserIndex (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:13:18)
+    at async indexUser (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:35:3)
+    at async bulkSyncUsersToElasticsearch (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:226:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/index.js:50:3 {"timestamp":"2025-07-11T07:21:18.495Z"}
+error: ConnectionError
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:599:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Indices.exists (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/indices.js:1557:16)
+    at async ensureUserIndex (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:13:18)
+    at async indexUser (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:35:3)
+    at async bulkSyncUsersToElasticsearch (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:226:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/index.js:50:3 {"timestamp":"2025-07-11T07:23:18.791Z"}
+error: ConnectionError
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:599:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Indices.exists (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/indices.js:1557:16)
+    at async ensureUserIndex (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:13:18)
+    at async indexUser (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:35:3)
+    at async bulkSyncUsersToElasticsearch (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:226:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/index.js:50:3 {"timestamp":"2025-07-11T07:24:41.603Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 685d3326d8b2ae48fd681d78 (casted: 685d3326d8b2ae48fd681d78) {"timestamp":"2025-07-11T07:49:20.306Z"}
+error: [deleteUserService] Removing from Elasticsearch: 685d3326d8b2ae48fd681d78 {"timestamp":"2025-07-11T07:49:20.368Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-07-11T07:49:20.369Z"}
+error: TypeError: searchUsersService is not a function
+    at searchUsers (/Users/shubham/Desktop/projrct/level-1/backend/Controller/user.js:56:26)
+    at /Users/shubham/Desktop/projrct/level-1/backend/routes/routes.js:12:72
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at /Users/shubham/Desktop/projrct/level-1/backend/middleware/authMiddleware.js:19:5
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/jsonwebtoken/verify.js:261:12
+    at getSecret (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/jsonwebtoken/verify.js:97:14)
+    at module.exports [as verify] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/jsonwebtoken/verify.js:101:10)
+    at authenticateToken (/Users/shubham/Desktop/projrct/level-1/backend/middleware/authMiddleware.js:14:7)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17) {"timestamp":"2025-07-11T09:49:44.272Z"}
+error: TypeError: searchUsersService is not a function
+    at searchUsers (/Users/shubham/Desktop/projrct/level-1/backend/Controller/user.js:56:26)
+    at /Users/shubham/Desktop/projrct/level-1/backend/routes/routes.js:12:72
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at /Users/shubham/Desktop/projrct/level-1/backend/middleware/authMiddleware.js:19:5
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/jsonwebtoken/verify.js:261:12
+    at getSecret (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/jsonwebtoken/verify.js:97:14)
+    at module.exports [as verify] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/jsonwebtoken/verify.js:101:10)
+    at authenticateToken (/Users/shubham/Desktop/projrct/level-1/backend/middleware/authMiddleware.js:14:7)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17) {"timestamp":"2025-07-11T09:49:45.658Z"}
+error: ReferenceError: User is not defined
+    at bulkSyncUsersToElasticsearch (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:216:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/index.js:50:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) {"timestamp":"2025-07-11T10:13:54.844Z"}
+error: User with email shubhamtest1@gmail.com already exists. {"timestamp":"2025-07-11T11:42:41.922Z"}
+error: ValidationError: {"email":"User already exists."}
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/Controller/user.js:18:14) {"timestamp":"2025-07-11T11:42:41.923Z"}
+error: [deleteUserService] Attempting to soft-delete user with id: 6870f94498722fcfb4a0bfda (casted: 6870f94498722fcfb4a0bfda) {"timestamp":"2025-07-11T11:45:29.467Z"}
+error: [deleteUserService] Removing from Elasticsearch: 6870f94498722fcfb4a0bfda {"timestamp":"2025-07-11T11:45:29.492Z"}
+error: Failed to remove user from Elasticsearch: removeUserFromIndex is not a function {"timestamp":"2025-07-11T11:45:29.492Z"}
+error: User with email shubhamtest5@gmail.com created successfully. {"timestamp":"2025-07-11T12:28:01.512Z"}
+error: User with email shubhamtest6@gmail.com created successfully. {"timestamp":"2025-07-11T12:29:42.116Z"}

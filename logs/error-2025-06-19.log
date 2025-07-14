@@ -1,0 +1,596 @@
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T05:54:50.597Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T05:54:59.128Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:03:18.464Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:03:22.561Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:03:42.208Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:03:43.183Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:04:06.401Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:04:07.167Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:04:07.347Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:04:07.543Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:04:07.706Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:04:07.869Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:05:37.799Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:05:42.569Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:16:39.733Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:16:56.983Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:16:58.198Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:16:58.634Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:16:58.796Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:16:58.962Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:16:59.098Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:16:59.353Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:17:20.053Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:17:20.698Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:17:20.863Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:17:21.029Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:17:21.133Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:20:26.095Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:22:01.663Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:22:02.233Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:22:02.414Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:22:02.576Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:22:02.863Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:22:03.074Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:22:03.251Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:22:03.385Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:22:03.550Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:22:23.208Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:23:36.971Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:23:37.694Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:23:37.873Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:23:38.144Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:23:38.307Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:23:38.504Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:23:38.684Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:25:45.493Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:25:46.146Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:25:46.341Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:25:46.503Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:25:46.655Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:25:46.775Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:25:46.895Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:25:46.997Z"}
+error: TypeError: Cannot destructure property 'fullName' of 'req.body' as it is undefined.
+    at addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/adduser.js:6:13)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-19T06:25:47.121Z"}
+error: User with email nishant@gmail.com already exists. {"timestamp":"2025-06-19T09:10:24.257Z"}
+error: User with email shubham@gmail.com already exists. {"timestamp":"2025-06-19T11:21:36.513Z"}

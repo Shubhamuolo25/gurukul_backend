@@ -1,0 +1,31 @@
+{
+  "name": "my-node-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js application",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "@elastic/elasticsearch": "^9.0.2",
+    "aws-sdk": "^2.1692.0",
+    "axios": "^1.9.0",
+    "bcrypt": "^6.0.0",
+    "config": "^4.0.0",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.15.2",
+    "multer": "^2.0.1",
+    "multer-s3": "^2.10.0",
+    "nodemon": "^3.1.10",
+    "uuid": "^11.1.0",
+    "winston": "^3.17.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "proxy": "http://localhost:5001"
+}

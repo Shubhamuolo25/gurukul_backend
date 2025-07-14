@@ -1,0 +1,699 @@
+error: ApiError: Email Already Exists
+    at addUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:15:13)
+    at async addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:42:21) {"timestamp":"2025-06-26T05:17:53.446Z"}
+error: ResponseError: illegal_argument_exception
+	Root causes:
+		illegal_argument_exception: request [/users_index/_doc/6853f4b50a3484acc7843e45] contains unrecognized parameter: [ignore]
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:533:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Client.DeleteApi [as delete] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/delete.js:59:12)
+    at async removeUserFromIndex (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:47:3)
+    at async deleteUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:79:3)
+    at async deleteUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:67:20) {"timestamp":"2025-06-26T05:48:50.735Z"}
+error: ResponseError: illegal_argument_exception
+	Root causes:
+		illegal_argument_exception: request [/users_index/_doc/6853f4b50a3484acc7843e45] contains unrecognized parameter: [ignore]
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:533:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Client.DeleteApi [as delete] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/delete.js:59:12)
+    at async removeUserFromIndex (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:47:3)
+    at async deleteUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:79:3)
+    at async deleteUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:67:20) {"timestamp":"2025-06-26T05:48:55.006Z"}
+error: ResponseError: illegal_argument_exception
+	Root causes:
+		illegal_argument_exception: request [/users_index/_doc/685cd96cff7c822c6a8101f7] contains unrecognized parameter: [ignore]
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:533:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Client.DeleteApi [as delete] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/delete.js:59:12)
+    at async removeUserFromIndex (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:47:3)
+    at async deleteUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:79:3)
+    at async deleteUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:67:20) {"timestamp":"2025-06-26T05:49:00.037Z"}
+error: ResponseError: illegal_argument_exception
+	Root causes:
+		illegal_argument_exception: request [/users_index/_doc/685cd96cff7c822c6a8101f7] contains unrecognized parameter: [ignore]
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:533:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Client.DeleteApi [as delete] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/delete.js:59:12)
+    at async removeUserFromIndex (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:47:3)
+    at async deleteUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:79:3)
+    at async deleteUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:67:20) {"timestamp":"2025-06-26T05:49:02.693Z"}
+error: ResponseError: illegal_argument_exception
+	Root causes:
+		illegal_argument_exception: request [/users_index/_doc/685cd834144fab5271000a88] contains unrecognized parameter: [ignore]
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:533:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Client.DeleteApi [as delete] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/delete.js:59:12)
+    at async removeUserFromIndex (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:47:3)
+    at async deleteUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:79:3)
+    at async deleteUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:67:20) {"timestamp":"2025-06-26T05:50:07.976Z"}
+error: ResponseError: illegal_argument_exception
+	Root causes:
+		illegal_argument_exception: request [/users_index/_doc/685cd7f4144fab5271000a7c] contains unrecognized parameter: [ignore]
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:533:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Client.DeleteApi [as delete] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/delete.js:59:12)
+    at async removeUserFromIndex (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:47:3)
+    at async deleteUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:79:3)
+    at async deleteUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:67:20) {"timestamp":"2025-06-26T05:50:15.225Z"}
+error: ResponseError: illegal_argument_exception
+	Root causes:
+		illegal_argument_exception: request [/users_index/_doc/685b8c4bba4ff2eb1ebc65d9] contains unrecognized parameter: [ignore]
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:533:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Client.DeleteApi [as delete] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/delete.js:59:12)
+    at async removeUserFromIndex (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:47:3)
+    at async deleteUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:79:3)
+    at async deleteUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:67:20) {"timestamp":"2025-06-26T05:50:32.087Z"}
+error: ResponseError: illegal_argument_exception
+	Root causes:
+		illegal_argument_exception: request [/users_index/_doc/685b90692f5ac1c9f3f17d74] contains unrecognized parameter: [ignore]
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:533:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Client.DeleteApi [as delete] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/delete.js:59:12)
+    at async removeUserFromIndex (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:47:3)
+    at async deleteUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:79:3)
+    at async deleteUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:67:20) {"timestamp":"2025-06-26T05:51:23.993Z"}
+error: ResponseError: illegal_argument_exception
+	Root causes:
+		illegal_argument_exception: request [/users_index/_doc/685b91bf2871d7f0bb9e9862] contains unrecognized parameter: [ignore]
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:533:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Client.DeleteApi [as delete] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/delete.js:59:12)
+    at async removeUserFromIndex (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:47:3)
+    at async deleteUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:79:3)
+    at async deleteUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:67:20) {"timestamp":"2025-06-26T05:51:42.851Z"}
+error: ResponseError: illegal_argument_exception
+	Root causes:
+		illegal_argument_exception: request [/users_index/_doc/68526926049173dff5d75a8c] contains unrecognized parameter: [ignore]
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:533:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Client.DeleteApi [as delete] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/delete.js:59:12)
+    at async removeUserFromIndex (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:47:3)
+    at async deleteUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:79:3)
+    at async deleteUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:67:20) {"timestamp":"2025-06-26T05:51:52.605Z"}
+error: ResponseError: illegal_argument_exception
+	Root causes:
+		illegal_argument_exception: request [/users_index/_doc/68526926049173dff5d75a8d] contains unrecognized parameter: [ignore]
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:533:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Client.DeleteApi [as delete] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/delete.js:59:12)
+    at async removeUserFromIndex (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:47:3)
+    at async deleteUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:79:3)
+    at async deleteUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:67:20) {"timestamp":"2025-06-26T05:52:01.550Z"}
+error: ResponseError: illegal_argument_exception
+	Root causes:
+		illegal_argument_exception: request [/users_index/_doc/68526926049173dff5d75a8e] contains unrecognized parameter: [ignore]
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:533:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Client.DeleteApi [as delete] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/delete.js:59:12)
+    at async removeUserFromIndex (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:47:3)
+    at async deleteUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:79:3)
+    at async deleteUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:67:20) {"timestamp":"2025-06-26T05:52:12.481Z"}
+error: ResponseError: illegal_argument_exception
+	Root causes:
+		illegal_argument_exception: request [/users_index/_doc/68526926049173dff5d75a8f] contains unrecognized parameter: [ignore]
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:533:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Client.DeleteApi [as delete] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/delete.js:59:12)
+    at async removeUserFromIndex (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:47:3)
+    at async deleteUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:79:3)
+    at async deleteUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:67:20) {"timestamp":"2025-06-26T05:52:20.703Z"}
+error: ResponseError: illegal_argument_exception
+	Root causes:
+		illegal_argument_exception: request [/users_index/_doc/68526926049173dff5d75a90] contains unrecognized parameter: [ignore]
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:533:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Client.DeleteApi [as delete] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/delete.js:59:12)
+    at async removeUserFromIndex (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:47:3)
+    at async deleteUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:79:3)
+    at async deleteUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:67:20) {"timestamp":"2025-06-26T05:53:18.032Z"}
+error: ResponseError: illegal_argument_exception
+	Root causes:
+		illegal_argument_exception: request [/users_index/_doc/68526926049173dff5d75a91] contains unrecognized parameter: [ignore]
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:533:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Client.DeleteApi [as delete] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/delete.js:59:12)
+    at async removeUserFromIndex (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:47:3)
+    at async deleteUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:79:3)
+    at async deleteUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:67:20) {"timestamp":"2025-06-26T05:53:42.387Z"}
+error: ResponseError: illegal_argument_exception
+	Root causes:
+		illegal_argument_exception: request [/users_index/_doc/68526926049173dff5d75a92] contains unrecognized parameter: [ignore]
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:533:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Client.DeleteApi [as delete] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/delete.js:59:12)
+    at async removeUserFromIndex (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:47:3)
+    at async deleteUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:79:3)
+    at async deleteUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:67:20) {"timestamp":"2025-06-26T05:55:24.873Z"}
+error: ResponseError: illegal_argument_exception
+	Root causes:
+		illegal_argument_exception: request [/users_index/_doc/68526926049173dff5d75a92] contains unrecognized parameter: [ignore]
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:533:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Client.DeleteApi [as delete] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/delete.js:59:12)
+    at async removeUserFromIndex (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:47:3)
+    at async deleteUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:79:3)
+    at async deleteUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:67:20) {"timestamp":"2025-06-26T05:55:35.716Z"}
+error: ResponseError: illegal_argument_exception
+	Root causes:
+		illegal_argument_exception: request [/users_index/_doc/68526926049173dff5d75a93] contains unrecognized parameter: [ignore]
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:533:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Client.DeleteApi [as delete] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/delete.js:59:12)
+    at async removeUserFromIndex (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:47:3)
+    at async deleteUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:79:3)
+    at async deleteUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:67:20) {"timestamp":"2025-06-26T05:56:51.551Z"}
+error: ResponseError: illegal_argument_exception
+	Root causes:
+		illegal_argument_exception: request [/users_index/_doc/68526926049173dff5d75a93] contains unrecognized parameter: [ignore]
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:533:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Client.DeleteApi [as delete] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/delete.js:59:12)
+    at async removeUserFromIndex (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:47:3)
+    at async deleteUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:79:3)
+    at async deleteUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:67:20) {"timestamp":"2025-06-26T05:59:40.040Z"}
+error: ResponseError: illegal_argument_exception
+	Root causes:
+		illegal_argument_exception: request [/users_index/_doc/68526926049173dff5d75a94] contains unrecognized parameter: [ignore]
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:533:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Client.DeleteApi [as delete] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/delete.js:59:12)
+    at async removeUserFromIndex (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:47:3)
+    at async deleteUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:79:3)
+    at async deleteUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:67:20) {"timestamp":"2025-06-26T05:59:50.390Z"}
+error: ResponseError: illegal_argument_exception
+	Root causes:
+		illegal_argument_exception: request [/users_index/_doc/68526926049173dff5d75a94] contains unrecognized parameter: [ignore]
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:533:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Client.DeleteApi [as delete] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/delete.js:59:12)
+    at async removeUserFromIndex (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:47:3)
+    at async deleteUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:79:3)
+    at async deleteUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:67:20) {"timestamp":"2025-06-26T06:00:57.881Z"}
+error: ResponseError: illegal_argument_exception
+	Root causes:
+		illegal_argument_exception: request [/users_index/_doc/68526926049173dff5d75a94] contains unrecognized parameter: [ignore]
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:533:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Client.DeleteApi [as delete] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/delete.js:59:12)
+    at async removeUserFromIndex (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:47:3)
+    at async deleteUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:79:3)
+    at async deleteUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:67:20) {"timestamp":"2025-06-26T06:01:08.200Z"}
+error: ResponseError: illegal_argument_exception
+	Root causes:
+		illegal_argument_exception: request [/users_index/_doc/68526926049173dff5d75a95] contains unrecognized parameter: [ignore]
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:533:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Client.DeleteApi [as delete] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/delete.js:59:12)
+    at async removeUserFromIndex (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:47:3)
+    at async deleteUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:79:3)
+    at async deleteUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:67:20) {"timestamp":"2025-06-26T06:01:32.084Z"}
+error: ApiError: Email Already Exists
+    at addUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:15:13)
+    at async addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:42:21) {"timestamp":"2025-06-26T06:02:11.872Z"}
+error: ApiError: Email Already Exists
+    at addUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:15:13)
+    at async addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:42:21) {"timestamp":"2025-06-26T06:02:19.437Z"}
+error: ApiError: Email Already Exists
+    at addUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:15:13)
+    at async addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:42:21) {"timestamp":"2025-06-26T06:02:25.687Z"}
+error: ResponseError: illegal_argument_exception
+	Root causes:
+		illegal_argument_exception: request [/users_index/_doc/68526926049173dff5d75a88] contains unrecognized parameter: [ignore]
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:533:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Client.DeleteApi [as delete] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/delete.js:59:12)
+    at async removeUserFromIndex (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:47:3)
+    at async deleteUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:79:3)
+    at async deleteUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:67:20) {"timestamp":"2025-06-26T06:03:47.482Z"}
+error: ResponseError: illegal_argument_exception
+	Root causes:
+		illegal_argument_exception: request [/users_index/_doc/68526926049173dff5d75a88] contains unrecognized parameter: [ignore]
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:533:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Client.DeleteApi [as delete] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/delete.js:59:12)
+    at async removeUserFromIndex (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:47:3)
+    at async deleteUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:79:3)
+    at async deleteUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:67:20) {"timestamp":"2025-06-26T06:05:03.946Z"}
+error: ResponseError: illegal_argument_exception
+	Root causes:
+		illegal_argument_exception: request [/users_index/_doc/68526926049173dff5d75a89] contains unrecognized parameter: [ignore]
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:533:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Client.DeleteApi [as delete] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/delete.js:59:12)
+    at async removeUserFromIndex (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:47:3)
+    at async deleteUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:79:3)
+    at async deleteUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:67:20) {"timestamp":"2025-06-26T06:05:16.856Z"}
+error: ResponseError: illegal_argument_exception
+	Root causes:
+		illegal_argument_exception: request [/users_index/_doc/68526926049173dff5d75a8a] contains unrecognized parameter: [ignore]
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:533:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Client.DeleteApi [as delete] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/delete.js:59:12)
+    at async removeUserFromIndex (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:47:3)
+    at async deleteUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:79:3)
+    at async deleteUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:67:20) {"timestamp":"2025-06-26T06:06:04.843Z"}
+error: TypeError: searchUsersService is not a function
+    at searchUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:81:26)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-26T06:15:53.350Z"}
+error: TypeError: searchUsersService is not a function
+    at searchUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:81:26)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-26T06:15:56.188Z"}
+error: TypeError: searchUsersService is not a function
+    at searchUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:81:26)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:186:3) {"timestamp":"2025-06-26T06:16:05.454Z"}
+error: TypeError: User.find(...).sort is not a function
+    at getUsersService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:83:8)
+    at getUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:57:26)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5) {"timestamp":"2025-06-26T06:22:59.954Z"}
+error: TypeError: User.find(...).sort is not a function
+    at getUsersService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:83:8)
+    at getUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:57:26)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5) {"timestamp":"2025-06-26T06:23:01.308Z"}
+error: TypeError: User.find(...).skip is not a function
+    at getUsersService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:83:8)
+    at getUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:57:26)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5) {"timestamp":"2025-06-26T06:24:23.587Z"}
+error: TypeError: User.find(...).skip is not a function
+    at getUsersService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:83:8)
+    at getUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:57:26)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5) {"timestamp":"2025-06-26T06:24:24.409Z"}
+error: TypeError: User.find(...).skip is not a function
+    at getUsersService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:83:8)
+    at getUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:57:26)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5) {"timestamp":"2025-06-26T06:24:24.874Z"}
+error: TypeError: User.find(...).sort is not a function
+    at getUsersService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:83:8)
+    at getUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:57:26)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5) {"timestamp":"2025-06-26T06:25:16.291Z"}
+error: TypeError: User.find(...).sort is not a function
+    at getUsersService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:83:8)
+    at getUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:57:26)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5) {"timestamp":"2025-06-26T06:25:17.055Z"}
+error: TypeError: User.find(...).sort is not a function
+    at getUsersService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:83:8)
+    at getUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:57:26)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5) {"timestamp":"2025-06-26T06:25:17.963Z"}
+error: TypeError: User.find(...).sort is not a function
+    at getUsersService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:83:8)
+    at getUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:57:26)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:295:15
+    at processParams (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:582:12)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/index.js:291:5) {"timestamp":"2025-06-26T06:25:19.089Z"}
+error: TypeError: user.toObject is not a function
+    at /Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:85:24
+    at Array.map (<anonymous>)
+    at getUsersService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:84:49)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async getUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:57:20) {"timestamp":"2025-06-26T06:26:30.866Z"}
+error: TypeError: user.toObject is not a function
+    at /Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:85:24
+    at Array.map (<anonymous>)
+    at getUsersService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:84:49)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async getUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:57:20) {"timestamp":"2025-06-26T06:26:31.735Z"}
+error: TypeError: user.toObject is not a function
+    at /Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:85:24
+    at Array.map (<anonymous>)
+    at getUsersService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:84:49)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async getUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:57:20) {"timestamp":"2025-06-26T06:26:32.586Z"}
+error: TypeError: user.toObject is not a function
+    at /Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:85:24
+    at Array.map (<anonymous>)
+    at getUsersService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:84:49)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async getUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:57:20) {"timestamp":"2025-06-26T06:26:33.734Z"}
+error: TypeError: user.toObject is not a function
+    at /Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:85:24
+    at Array.map (<anonymous>)
+    at getUsersService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:84:49)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async getUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:57:20) {"timestamp":"2025-06-26T06:27:02.749Z"}
+error: TypeError: user.toObject is not a function
+    at /Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:85:24
+    at Array.map (<anonymous>)
+    at getUsersService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:84:49)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async getUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:57:20) {"timestamp":"2025-06-26T06:27:03.481Z"}
+error: TypeError: user.toObject is not a function
+    at /Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:85:24
+    at Array.map (<anonymous>)
+    at getUsersService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:84:49)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async getUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:57:20) {"timestamp":"2025-06-26T06:27:04.184Z"}
+error: TypeError: user.toObject is not a function
+    at /Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:85:24
+    at Array.map (<anonymous>)
+    at getUsersService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:84:49)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async getUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:57:20) {"timestamp":"2025-06-26T06:27:07.063Z"}
+error: ReferenceError: total is not defined
+    at getUsersService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:95:70)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async getUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:57:20) {"timestamp":"2025-06-26T06:28:13.386Z"}
+error: ReferenceError: total is not defined
+    at getUsersService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:95:70)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async getUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:57:20) {"timestamp":"2025-06-26T06:28:14.397Z"}
+error: TypeError: existingUser.save is not a function
+    at addUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:59:28)
+    at async addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:42:21) {"timestamp":"2025-06-26T06:30:47.608Z"}
+error: TypeError: existingUser.save is not a function
+    at addUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:59:28)
+    at async addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:42:21) {"timestamp":"2025-06-26T06:31:28.960Z"}
+error: TypeError: existingUser.save is not a function
+    at addUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:59:28)
+    at async addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:42:21) {"timestamp":"2025-06-26T06:31:42.093Z"}
+error: TypeError: existingUser.save is not a function
+    at addUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:59:28)
+    at async addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:42:21) {"timestamp":"2025-06-26T06:32:39.853Z"}
+error: Failed to re-index user in Elasticsearch: searchUsers.indexUser is not a function {"timestamp":"2025-06-26T06:33:24.820Z"}
+error: Failed to re-index user in Elasticsearch: searchUsers.indexUser is not a function {"timestamp":"2025-06-26T06:33:53.515Z"}
+error: Failed to re-index user in Elasticsearch: searchUsers.indexUser is not a function {"timestamp":"2025-06-26T06:35:48.462Z"}
+error: ResponseError: x_content_parse_exception
+	Caused by:
+		parsing_exception: [simple_query_string] unsupported field [case_sensitive]
+	Root causes:
+		parsing_exception: [simple_query_string] unsupported field [case_sensitive]
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:533:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Client.SearchApi [as search] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/search.js:156:12)
+    at async searchUsers (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:87:20)
+    at async searchUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:81:20) {"timestamp":"2025-06-26T07:12:50.585Z"}
+error: ResponseError: x_content_parse_exception
+	Caused by:
+		parsing_exception: [simple_query_string] unsupported field [case_sensitive]
+	Root causes:
+		parsing_exception: [simple_query_string] unsupported field [case_sensitive]
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:533:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Client.SearchApi [as search] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/search.js:156:12)
+    at async searchUsers (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:87:20)
+    at async searchUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:81:20) {"timestamp":"2025-06-26T07:12:56.886Z"}
+error: ResponseError: x_content_parse_exception
+	Caused by:
+		parsing_exception: [simple_query_string] unsupported field [case_sensitive]
+	Root causes:
+		parsing_exception: [simple_query_string] unsupported field [case_sensitive]
+    at SniffingTransport._request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:533:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:631:32
+    at async SniffingTransport.request (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/transport/lib/Transport.js:627:20)
+    at async Client.SearchApi [as search] (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/@elastic/elasticsearch/lib/api/api/search.js:156:12)
+    at async searchUsers (/Users/shubham/Desktop/projrct/level-1/backend/services/elasticSearch.js:87:20)
+    at async searchUsers (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:81:20) {"timestamp":"2025-06-26T07:13:12.055Z"}
+error: TypeError: Cannot set properties of null (setting 'fullName')
+    at addUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:57:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:42:21) {"timestamp":"2025-06-26T07:29:10.196Z"}
+error: User with email shubhama@1gmail.com not found as document during restore. {"timestamp":"2025-06-26T07:30:01.838Z"}
+error: User with email shubhama@1gmail.com not found as document during restore. {"timestamp":"2025-06-26T07:30:50.068Z"}
+error: User with email shubhama@1gmail.com not found as document during restore. {"timestamp":"2025-06-26T07:30:59.131Z"}
+error: TypeError: doc.save is not a function
+    at addUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:65:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:42:21) {"timestamp":"2025-06-26T07:31:59.242Z"}
+error: User with email shubhama@1gmail.com not found as document during restore. {"timestamp":"2025-06-26T07:32:24.822Z"}
+error: User with email shubhama@1gmail.com not found as document during restore. {"timestamp":"2025-06-26T07:33:20.353Z"}
+error: TypeError: User is not a constructor
+    at addUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:74:18)
+    at async addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:42:21) {"timestamp":"2025-06-26T07:33:57.074Z"}
+error: TypeError: User is not a constructor
+    at addUserService (/Users/shubham/Desktop/projrct/level-1/backend/services/userService.js:74:18)
+    at async addUser (/Users/shubham/Desktop/projrct/level-1/backend/controller/user.js:42:21) {"timestamp":"2025-06-26T07:34:15.443Z"}
+error: Uncaught Exception: MongoServerError: The $changeStream stage is only supported on replica sets
+    at Connection.sendCommand (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cmap/connection.js:305:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Connection.command (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cmap/connection.js:333:26)
+    at async Server.command (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/sdam/server.js:171:29)
+    at async AggregateOperation.executeCommand (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/command.js:76:16)
+    at async AggregateOperation.execute (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/aggregate.js:86:16)
+    at async tryOperation (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async ChangeStreamCursor._initialize (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cursor/change_stream_cursor.js:81:26)
+    at async ChangeStreamCursor.cursorInit (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cursor/abstract_cursor.js:633:27) {"timestamp":"2025-06-26T11:05:37.377Z"}
+error: Uncaught Exception: MongoServerError: The $changeStream stage is only supported on replica sets
+    at Connection.sendCommand (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cmap/connection.js:305:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Connection.command (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cmap/connection.js:333:26)
+    at async Server.command (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/sdam/server.js:171:29)
+    at async AggregateOperation.executeCommand (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/command.js:76:16)
+    at async AggregateOperation.execute (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/aggregate.js:86:16)
+    at async tryOperation (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async ChangeStreamCursor._initialize (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cursor/change_stream_cursor.js:81:26)
+    at async ChangeStreamCursor.cursorInit (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cursor/abstract_cursor.js:633:27) {"timestamp":"2025-06-26T11:05:37.377Z"}
+error: Uncaught Exception: MongoServerError: The $changeStream stage is only supported on replica sets
+    at Connection.sendCommand (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cmap/connection.js:305:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Connection.command (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cmap/connection.js:333:26)
+    at async Server.command (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/sdam/server.js:171:29)
+    at async AggregateOperation.executeCommand (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/command.js:76:16)
+    at async AggregateOperation.execute (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/aggregate.js:86:16)
+    at async tryOperation (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async ChangeStreamCursor._initialize (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cursor/change_stream_cursor.js:81:26)
+    at async ChangeStreamCursor.cursorInit (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cursor/abstract_cursor.js:633:27) {"timestamp":"2025-06-26T11:07:22.347Z"}
+error: Uncaught Exception: MongoServerError: The $changeStream stage is only supported on replica sets
+    at Connection.sendCommand (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cmap/connection.js:305:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Connection.command (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cmap/connection.js:333:26)
+    at async Server.command (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/sdam/server.js:171:29)
+    at async AggregateOperation.executeCommand (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/command.js:76:16)
+    at async AggregateOperation.execute (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/aggregate.js:86:16)
+    at async tryOperation (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async ChangeStreamCursor._initialize (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cursor/change_stream_cursor.js:81:26)
+    at async ChangeStreamCursor.cursorInit (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cursor/abstract_cursor.js:633:27) {"timestamp":"2025-06-26T11:07:22.355Z"}
+error: Uncaught Exception: MongoServerError: The $changeStream stage is only supported on replica sets
+    at Connection.sendCommand (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cmap/connection.js:305:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Connection.command (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cmap/connection.js:333:26)
+    at async Server.command (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/sdam/server.js:171:29)
+    at async AggregateOperation.executeCommand (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/command.js:76:16)
+    at async AggregateOperation.execute (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/aggregate.js:86:16)
+    at async tryOperation (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async ChangeStreamCursor._initialize (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cursor/change_stream_cursor.js:81:26)
+    at async ChangeStreamCursor.cursorInit (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cursor/abstract_cursor.js:633:27) {"timestamp":"2025-06-26T11:08:13.812Z"}
+error: Uncaught Exception: MongoServerError: The $changeStream stage is only supported on replica sets
+    at Connection.sendCommand (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cmap/connection.js:305:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Connection.command (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cmap/connection.js:333:26)
+    at async Server.command (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/sdam/server.js:171:29)
+    at async AggregateOperation.executeCommand (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/command.js:76:16)
+    at async AggregateOperation.execute (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/aggregate.js:86:16)
+    at async tryOperation (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async ChangeStreamCursor._initialize (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cursor/change_stream_cursor.js:81:26)
+    at async ChangeStreamCursor.cursorInit (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cursor/abstract_cursor.js:633:27) {"timestamp":"2025-06-26T11:08:13.814Z"}
+error: Uncaught Exception: MongoServerError: The $changeStream stage is only supported on replica sets
+    at Connection.sendCommand (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cmap/connection.js:305:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Connection.command (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cmap/connection.js:333:26)
+    at async Server.command (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/sdam/server.js:171:29)
+    at async AggregateOperation.executeCommand (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/command.js:76:16)
+    at async AggregateOperation.execute (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/aggregate.js:86:16)
+    at async tryOperation (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async ChangeStreamCursor._initialize (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cursor/change_stream_cursor.js:81:26)
+    at async ChangeStreamCursor.cursorInit (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cursor/abstract_cursor.js:633:27) {"timestamp":"2025-06-26T11:08:52.487Z"}
+error: Uncaught Exception: MongoServerError: The $changeStream stage is only supported on replica sets
+    at Connection.sendCommand (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cmap/connection.js:305:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Connection.command (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cmap/connection.js:333:26)
+    at async Server.command (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/sdam/server.js:171:29)
+    at async AggregateOperation.executeCommand (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/command.js:76:16)
+    at async AggregateOperation.execute (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/aggregate.js:86:16)
+    at async tryOperation (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async ChangeStreamCursor._initialize (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cursor/change_stream_cursor.js:81:26)
+    at async ChangeStreamCursor.cursorInit (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cursor/abstract_cursor.js:633:27) {"timestamp":"2025-06-26T11:08:52.489Z"}
+error: Uncaught Exception: MongoServerError: The $changeStream stage is only supported on replica sets
+    at Connection.sendCommand (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cmap/connection.js:305:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Connection.command (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cmap/connection.js:333:26)
+    at async Server.command (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/sdam/server.js:171:29)
+    at async AggregateOperation.executeCommand (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/command.js:76:16)
+    at async AggregateOperation.execute (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/aggregate.js:86:16)
+    at async tryOperation (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async ChangeStreamCursor._initialize (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cursor/change_stream_cursor.js:81:26)
+    at async ChangeStreamCursor.cursorInit (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cursor/abstract_cursor.js:633:27) {"timestamp":"2025-06-26T11:08:56.315Z"}
+error: Uncaught Exception: MongoServerError: The $changeStream stage is only supported on replica sets
+    at Connection.sendCommand (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cmap/connection.js:305:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Connection.command (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cmap/connection.js:333:26)
+    at async Server.command (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/sdam/server.js:171:29)
+    at async AggregateOperation.executeCommand (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/command.js:76:16)
+    at async AggregateOperation.execute (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/aggregate.js:86:16)
+    at async tryOperation (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async ChangeStreamCursor._initialize (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cursor/change_stream_cursor.js:81:26)
+    at async ChangeStreamCursor.cursorInit (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cursor/abstract_cursor.js:633:27) {"timestamp":"2025-06-26T11:08:56.315Z"}
+error: Uncaught Exception: MongoServerError: The $changeStream stage is only supported on replica sets
+    at Connection.sendCommand (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cmap/connection.js:305:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Connection.command (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cmap/connection.js:333:26)
+    at async Server.command (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/sdam/server.js:171:29)
+    at async AggregateOperation.executeCommand (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/command.js:76:16)
+    at async AggregateOperation.execute (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/aggregate.js:86:16)
+    at async tryOperation (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async ChangeStreamCursor._initialize (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cursor/change_stream_cursor.js:81:26)
+    at async ChangeStreamCursor.cursorInit (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cursor/abstract_cursor.js:633:27) {"timestamp":"2025-06-26T11:09:12.647Z"}
+error: Uncaught Exception: MongoServerError: The $changeStream stage is only supported on replica sets
+    at Connection.sendCommand (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cmap/connection.js:305:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Connection.command (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cmap/connection.js:333:26)
+    at async Server.command (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/sdam/server.js:171:29)
+    at async AggregateOperation.executeCommand (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/command.js:76:16)
+    at async AggregateOperation.execute (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/aggregate.js:86:16)
+    at async tryOperation (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async ChangeStreamCursor._initialize (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cursor/change_stream_cursor.js:81:26)
+    at async ChangeStreamCursor.cursorInit (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongodb/lib/cursor/abstract_cursor.js:633:27) {"timestamp":"2025-06-26T11:09:12.650Z"}

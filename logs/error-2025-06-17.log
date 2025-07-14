@@ -1,0 +1,11 @@
+error: Uncaught Exception: OverwriteModelError: Cannot overwrite `User` model once compiled.
+    at Mongoose.model (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/mongoose/lib/mongoose.js:610:13)
+    at Object.<anonymous> (/Users/shubham/Desktop/projrct/level-1/backend/index.js:37:23)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Module._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:152:5)
+    at node:internal/main/run_main_module:33:47 {"timestamp":"2025-06-17T11:02:41.723Z"}

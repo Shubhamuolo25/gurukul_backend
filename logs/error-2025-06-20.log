@@ -1,0 +1,60 @@
+error: Error: params.Body is required
+    at ManagedUpload.validateBody (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/aws-sdk/lib/s3/managed_upload.js:271:13)
+    at ManagedUpload.configure (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/aws-sdk/lib/s3/managed_upload.js:123:10)
+    at new ManagedUpload (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/aws-sdk/lib/s3/managed_upload.js:95:10)
+    at features.constructor.upload (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/aws-sdk/lib/services/s3.js:1334:20)
+    at /Users/shubham/Desktop/projrct/level-1/backend/index.js:38:27
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at done (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/multer/lib/make-middleware.js:59:7)
+    at indicateDone (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/multer/lib/make-middleware.js:63:68)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/multer/lib/make-middleware.js:171:11 {"timestamp":"2025-06-20T07:29:08.275Z"}
+error: Error: params.Body is required
+    at ManagedUpload.validateBody (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/aws-sdk/lib/s3/managed_upload.js:271:13)
+    at ManagedUpload.configure (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/aws-sdk/lib/s3/managed_upload.js:123:10)
+    at new ManagedUpload (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/aws-sdk/lib/s3/managed_upload.js:95:10)
+    at features.constructor.upload (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/aws-sdk/lib/services/s3.js:1334:20)
+    at /Users/shubham/Desktop/projrct/level-1/backend/index.js:37:27
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at done (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/multer/lib/make-middleware.js:59:7)
+    at indicateDone (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/multer/lib/make-middleware.js:63:68)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/multer/lib/make-middleware.js:171:11 {"timestamp":"2025-06-20T07:33:03.152Z"}
+error: Error: params.Body is required
+    at ManagedUpload.validateBody (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/aws-sdk/lib/s3/managed_upload.js:271:13)
+    at ManagedUpload.configure (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/aws-sdk/lib/s3/managed_upload.js:123:10)
+    at new ManagedUpload (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/aws-sdk/lib/s3/managed_upload.js:95:10)
+    at features.constructor.upload (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/aws-sdk/lib/services/s3.js:1334:20)
+    at /Users/shubham/Desktop/projrct/level-1/backend/index.js:37:27
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at done (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/multer/lib/make-middleware.js:59:7)
+    at indicateDone (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/multer/lib/make-middleware.js:63:68)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/multer/lib/make-middleware.js:171:11 {"timestamp":"2025-06-20T07:34:55.022Z"}
+error: Error: params.Body is required
+    at ManagedUpload.validateBody (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/aws-sdk/lib/s3/managed_upload.js:271:13)
+    at ManagedUpload.configure (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/aws-sdk/lib/s3/managed_upload.js:123:10)
+    at new ManagedUpload (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/aws-sdk/lib/s3/managed_upload.js:95:10)
+    at features.constructor.upload (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/aws-sdk/lib/services/s3.js:1334:20)
+    at /Users/shubham/Desktop/projrct/level-1/backend/index.js:37:27
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at done (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/multer/lib/make-middleware.js:59:7)
+    at indicateDone (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/multer/lib/make-middleware.js:63:68)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/multer/lib/make-middleware.js:171:11 {"timestamp":"2025-06-20T07:37:18.906Z"}
+error: Error: params.Body is required
+    at ManagedUpload.validateBody (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/aws-sdk/lib/s3/managed_upload.js:271:13)
+    at ManagedUpload.configure (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/aws-sdk/lib/s3/managed_upload.js:123:10)
+    at new ManagedUpload (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/aws-sdk/lib/s3/managed_upload.js:95:10)
+    at features.constructor.upload (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/aws-sdk/lib/services/s3.js:1334:20)
+    at /Users/shubham/Desktop/projrct/level-1/backend/index.js:37:27
+    at Layer.handleRequest (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/router/lib/route.js:157:13)
+    at done (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/multer/lib/make-middleware.js:59:7)
+    at indicateDone (/Users/shubham/Desktop/projrct/level-1/backend/node_modules/multer/lib/make-middleware.js:63:68)
+    at /Users/shubham/Desktop/projrct/level-1/backend/node_modules/multer/lib/make-middleware.js:171:11 {"timestamp":"2025-06-20T07:37:20.179Z"}
+error: User with email shubham16@gmail.com already exists. {"timestamp":"2025-06-20T07:45:40.652Z"}
+error: User with email shubham17@gmail.com already exists. {"timestamp":"2025-06-20T07:46:33.809Z"}
+error: User with email shubham18@gmail.com already exists. {"timestamp":"2025-06-20T08:11:14.092Z"}
+error: User with email rahul@gmail.com already exists. {"timestamp":"2025-06-20T10:33:07.285Z"}
+error: User with email rahul@gmail.com already exists. {"timestamp":"2025-06-20T10:35:10.358Z"}
